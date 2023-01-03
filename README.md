@@ -48,6 +48,8 @@ Machine Learning enthusiast with two years of experience in computer vision who 
   <a href="https://www.rust-lang.org/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/rust.svg" alt="Rust" style="vertical-align:top; margin:4px">
   </a>
+ 
+  
   - Distributed System Designs, Blockchain
 </p>
 
