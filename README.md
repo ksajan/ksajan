@@ -2,10 +2,15 @@
 ### About Me
 
 🤖 Machine Learning enthusiast with 4 years of experience in computer vision
+
 🧬 Exploring ML applications in bioengineering
+
 🌐 Web3 developer, building decentralized solutions from scratch
+
 💻 Passionate about crafting innovative tech in fast-paced environments
+
 🔍 Always seeking new challenges and cutting-edge technologies
+
 🌍 Explorer of new locations and terminal configurations 
 
 ---
