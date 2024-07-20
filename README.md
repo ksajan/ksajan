@@ -72,6 +72,6 @@
 ---
 ### Visual profile
 <p align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=ksajan&show_icons=true&theme=tokyonight&count_private=true />
+  <img src=https://github-readme-stats.vercel.app/api?username=ksajan&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github& />
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksajan&theme=tokyonight)" alt="trophy" /></a>
 </p>
