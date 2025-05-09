@@ -44,8 +44,8 @@
 </p>
 
 ---
-### 🔭 I’m currently working on ...
- - Creating defi platform for the Meta era at <a href="https://coindcx.com/"> 🏢 CoinDCX</a> 
+<!-- ### 🔭 I’m currently working on ... -->
+<!-- - Creating defi platform for the Meta era at <a href="https://coindcx.com/"> 🏢 CoinDCX</a> -->
 <!--  - Maintaining the awesome <a href="https://github.com/LunarVim/LunarVim"> 🌑 LunarVim Project </a> -->
 
 
@@ -75,3 +75,4 @@
   <img src=https://github-readme-stats.vercel.app/api?username=ksajan&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github& />
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksajan&theme=tokyonight)" alt="trophy" /></a>
 </p>
+ 
